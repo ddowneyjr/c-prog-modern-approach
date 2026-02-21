@@ -1,5 +1,0 @@
----
-triple:          'arm64-apple-darwin'
-binary-path:     '/Users/ddowneyjr/dev/c/c-prog-modern-approach/chatper1/celsius'
-relocations:     []
-...
